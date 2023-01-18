@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+<img width="1186" alt="Bildschirm­foto 2023-01-18 um 17 15 08" src="https://user-images.githubusercontent.com/110630039/213231026-7fa1687e-5bd1-482a-9bf5-8c37a01a58a6.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
