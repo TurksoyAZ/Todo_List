@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(234, 234, 234);
+  display: grid;
+  place-items: center;
+}
+
+article {
+  box-shadow: 0 0 10px rgb(107, 106, 106), 0 0 20px rgb(107, 106, 106);
+}
+
+.form1 {
+  padding: 25px 70px 25px 20px;
+  background-color: cadetblue;
+  display: flex;
+  gap: 30px;
+}
+
+input {
+  width: 15rem;
+  font-size: 15px;
+  padding: 10px;
+  background-color: white;
+  border: 1px solid white;
+}
+
+button {
+  font-size: 15px;
+  padding: 5px 40px;
+  background-color: white;
+  margin: 0 10px;
+}
+
+select {
+  font-size: 15px;
+  padding: 12px;
+}
+
+.listDiv {
+  height: 20rem;
+  padding: 20px;
+  background-color: rgb(253, 215, 139);
+  font-size: 25px;
+  overflow: auto;
+}

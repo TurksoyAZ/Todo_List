@@ -1,0 +1,31 @@
+.divItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+ul {
+  list-style: decimal-leading;
+  padding-left: 20px;
+}
+
+.selectedListe {
+  text-decoration: line-through red;
+  color: rgba(0, 0, 0, 0.562);
+  transition: all 0.3s ease;
+}
+
+.btnFirst {
+  background-color: green;
+  color: white;
+}
+
+.btnSecond {
+  background-color: red;
+  color: white;
+}
+
+.form2 {
+  padding: 5px 0;
+}
